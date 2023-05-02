@@ -1,5 +1,5 @@
-**Read me**
 Last modified: 2023-05-01
+
 Author: Clein Alexander Sarmiento, HSRW
 
 # Chicken Database Workshop
