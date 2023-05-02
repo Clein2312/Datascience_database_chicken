@@ -10,3 +10,7 @@ This repository is created for the chicken database workshop held in the HSRW to
 2. Open Anaconda Prompt Terminal and type: <code>cd "/your_folder_path/"</code> notice that you should change the text between the quotation marks for own path
 3. Create a new environment using the .yml file. For this you should type:  
     <code>conda env create -f environment.yml</code>
+4. Activate the new environment using: 
+    <code>conda activate chicken</code>
+5. Run jupyterlab in a file explorer:
+    <code>jupyter lab</code>

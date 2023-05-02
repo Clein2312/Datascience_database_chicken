@@ -1,3 +1,6 @@
+# Ignore following folders
+.ipynb_checkpoints
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
