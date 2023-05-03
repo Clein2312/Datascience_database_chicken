@@ -14,3 +14,8 @@ This repository is created for the chicken database workshop held in the HSRW to
     <code>conda activate chicken</code>
 5. Run jupyterlab in a file explorer:
     <code>jupyter lab</code>
+    
+# To Do
+- Describe postgresql installation
+- Describe anaconda installation
+- Populate anaconda notebook
