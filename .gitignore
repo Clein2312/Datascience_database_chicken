@@ -1,5 +1,6 @@
 # Ignore following folders
 .ipynb_checkpoints
+./gdms0810_Database_Normalization/.svn/
 
 # Windows thumbnail cache files
 Thumbs.db
