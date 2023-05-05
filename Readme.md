@@ -17,5 +17,18 @@ This repository is created for the chicken database workshop held in the HSRW to
     
 # To Do
 - Describe postgresql installation
+    - Review following points:
+    - Installation tutorial(written version)
+    First page:
+    https://www.postgresql.org/docs/current/tutorial-install.html
+
+    - Installation tutorial Windows(written version)(has links for linux and osx on page)
+    https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
+
+    - Installation video for Windows:
+    https://www.youtube.com/watch?v=0n41UTkOBb0
+
+    - Installation video for OSX
+    https://www.youtube.com/watch?v=Z-iM7hUdBSg
 - Describe anaconda installation
 - Populate anaconda notebook
