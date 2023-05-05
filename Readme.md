@@ -16,13 +16,13 @@ This repository is created for the chicken database workshop held in the HSRW to
     <code>jupyter lab</code>
     
 # To Do
-- Describe postgresql installation
+- Describe PostgreSQL installation
     - Review following points:
-    - Installation tutorial(written version)
+    - Installation tutorial
     First page:
     https://www.postgresql.org/docs/current/tutorial-install.html
 
-    - Installation tutorial Windows(written version)(has links for linux and osx on page)
+    - Installation tutorial Windows(has links for linux and osx on page)
     https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
 
     - Installation video for Windows:
@@ -31,6 +31,17 @@ This repository is created for the chicken database workshop held in the HSRW to
     - Installation video for OSX
     https://www.youtube.com/watch?v=Z-iM7hUdBSg
 - Describe anaconda installation
+    - Installation tutorial:
+    https://docs.anaconda.com/free/anaconda/install/index.html
+
+    - Installation tutorial for WIndows:
+    https://docs.anaconda.com/free/anaconda/install/windows/
+
+    - Installation video for OSX:
+    https://www.youtube.com/watch?v=2JeoNlCcLOM
+
+    - Installation video for Windows, embedded in a tutorial:
+    https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/
 - Populate anaconda notebook
 
 # IMPORTANT!
