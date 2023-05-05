@@ -28,3 +28,4 @@ $RECYCLE.BIN/
 
 # OSX hidden files
 .DB_Store
+/.DS_Store
