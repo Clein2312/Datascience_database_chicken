@@ -32,3 +32,9 @@ This repository is created for the chicken database workshop held in the HSRW to
     https://www.youtube.com/watch?v=Z-iM7hUdBSg
 - Describe anaconda installation
 - Populate anaconda notebook
+
+# IMPORTANT!
+
+- Do not push broken code.
+- Make sure to describe a bit your changes when you commit.
+- Let me know when you are done with something and you would like to merge it (I'll check it faster)
