@@ -55,6 +55,15 @@ CREATE DATABASE music_db
 
 COMMENT ON DATABASE music_db IS 'Music database.';
 
+/*
+Grant music_user USAGE and CREATE priviledges in public schema.
+*/
+
+\set conn_string "host=localhost dbname=music_db user=music_master password='xxxxxx'"
+\c :conn_string
+GRANT ALL ON SCHEMA public TO music_user;
+
+
 
 /* 
 Connect to the music database as music_user with limited rights to create all tables. 
