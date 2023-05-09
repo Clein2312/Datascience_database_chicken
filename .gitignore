@@ -25,3 +25,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# OSX hidden files
+.DB_Store
+/.DS_Store
