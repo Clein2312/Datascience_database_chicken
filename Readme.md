@@ -3,7 +3,7 @@ Last modified: 2023-05-01
 Author: Clein Alexander Sarmiento, HSRW
 
 # Chicken Database Workshop
-This repository is created for the chicken database workshop held in the HSRW together with Universität Bohn 
+This repository is created for the chicken database workshop held in the HSRW together with Universität Bonn 
 
 # Requirements
 ## PostgreSQL installation
@@ -27,19 +27,20 @@ This repository is created for the chicken database workshop held in the HSRW to
 
 # Installation
 1. Download or clone the repository: https://github.com/Clein2312/Datascience_database_chicken.git
-2. Open Anaconda Prompt Terminal and type: <code>cd "/your_folder_path/"</code> notice that you should change the text between the quotation marks for own path
-3. Create a new environment using the .yml file. For this you should type:  
+2. Install Anaconda, see the tutorials above.
+3. Open Anaconda Prompt Terminal and type: <code>cd "/your_folder_path/"</code>, mind that you should replace the text between the quotation marks with your own path.
+4. Create a new environment using the .yml file. For this you should type:  
     <code>conda env create -f environment.yml</code>
-4. Activate the new environment using: 
+5. Activate the new environment using: 
     <code>conda activate chicken</code>
-5. Intall PostgreSQL, see the tutorials below.
-6. Install ipython-sql using:
+6. Intall PostgreSQL, see the tutorials above.
+7. Install ipython-sql using:
     <code>pip install ipython-sql</code>
-7. Install sqlalchemy using:
+8. Install sqlalchemy using:
     <code>pip install sqlalchemy</code>
-8. Install psycopg2 using:
+9. Install psycopg2 using:
     <code>pip install psycopg2</code>
-9. Run jupyterlab in a file explorer:
+10. Run jupyterlab in a file explorer:
     <code>jupyter lab</code>
     
 
