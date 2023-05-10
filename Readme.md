@@ -1,6 +1,8 @@
 Last modified: 2023-05-01
 
-Author: Clein Alexander Sarmiento, HSRW
+Authors:    Clein Alexander Sarmiento, HSRW.
+            Anup Ghosh, HSRW
+            Andreas Koffer, Uni-Bohn
 
 # Chicken Database Workshop
 This repository is created for the chicken database workshop held in the HSRW together with Universität Bonn 
