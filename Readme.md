@@ -34,12 +34,13 @@ This repository is created for the chicken database workshop held in the HSRW to
 5. Activate the new environment using: 
     <code>conda activate chicken</code>
 6. Intall PostgreSQL, see the tutorials above.
-7. Install ipython-sql using:
-    <code>pip install ipython-sql</code>
-8. Install sqlalchemy using:
-    <code>pip install sqlalchemy</code>
-9. Install psycopg2 using:
-    <code>pip install psycopg2</code>
+7. Check that the following packages are in your environment:
+    - ipython-sql
+    - sqlalchemy
+    - psycopg2
+    
+    Or install otherwise:
+    <code>conda install psycopg2 ipython-sql</code>
 10. Run jupyterlab in a file explorer:
     <code>jupyter lab</code>
     
